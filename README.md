@@ -28,3 +28,12 @@ This repository contains a custom keyboard layout configuration for macOS. It al
 
 - The layout is based on the German (Switzerland) layout from Windows and enables a seamless transition for users switching from Windows to macOS.
 - The basis for this layout comes from the repository [weibeld-setup/install-keyboard-layout](https://github.com/weibeld-setup/install-keyboard-layout). Many thanks to the original project!
+
+## Contributing
+
+Issues and pull requests are welcome — for example, missing or wrong key
+mappings.
+
+## License
+
+[MIT](LICENSE)
