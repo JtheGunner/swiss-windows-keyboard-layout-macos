@@ -79,7 +79,7 @@ Letters, digits and the <kbd>Shift</kbd> layer (`+ " * ç % & / ( ) = ? ü è ö
 | ↩️ | `\` | <kbd>AltGr</kbd> + <kbd><</kbd> | <kbd>⌥</kbd> + <kbd><</kbd> |
 | 🧱 | `[` `]` | <kbd>AltGr</kbd> + <kbd>ü</kbd> / <kbd>¨</kbd> | <kbd>⌥</kbd> + <kbd>ü</kbd> / <kbd>¨</kbd> |
 | 🧩 | `{` `}` | <kbd>AltGr</kbd> + <kbd>ä</kbd> / <kbd>$</kbd> | <kbd>⌥</kbd> + <kbd>ä</kbd> / <kbd>$</kbd> |
-| 💶 | `€` | <kbd>AltGr</kbd> + <kbd>E</kbd> | <kbd>⌥</kbd> + <kbd>E</kbd> |
+| 💶 | `€` | <kbd>AltGr</kbd> + <kbd>E</kbd> | <kbd>⌥</kbd> + <kbd>R</kbd> |
 | 〰️ | `~` | <kbd>AltGr</kbd> + <kbd>^</kbd> | <kbd>⌥</kbd> + <kbd>^</kbd> (dead key) or <kbd>⌥</kbd> + <kbd>N</kbd> |
 | ✏️ | `´` | <kbd>AltGr</kbd> + <kbd>´</kbd> | <kbd>⌥</kbd> + <kbd>´</kbd> (dead key) |
 | ➖ | `¬` `¢` | <kbd>AltGr</kbd> + <kbd>6</kbd> / <kbd>8</kbd> | <kbd>⌥</kbd> + <kbd>6</kbd> / <kbd>8</kbd> |
